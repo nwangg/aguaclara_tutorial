@@ -43,8 +43,8 @@ Make an ordered list of 3 things you hope to achieve this semester, and elaborat
   1. in e-boards of clubs or in AguaClara!
 
 1. 3 classes I'm taking
-  - ENGRD 2210
-  - CHIN 1109
+  - MAE 2030
+  - CHIN 1110
   - CS 2110
 
 ## Links

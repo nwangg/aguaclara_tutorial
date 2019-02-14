@@ -82,7 +82,7 @@ ArrayUnits= array * u.m
 my2DArray = np.array([[1,2,3,4,5], [6,7,8,9,10], [11,12,13,14,15],[1,2,3,4,5],[6,7,8,9,10]])
 my2Darray[2,:] #middle row
 my2DArray[:,2] #middle column
-np.size(my2my2DArray)
+np.size(my2DArray)
 ArrayUnits = my2DArray * u.L
 
 ```
@@ -124,7 +124,7 @@ reynolds_array = pc.viscosity_kinematic
 plt.plot(temp_array, rho_array)
 plt.title("Temperature vs Reynolds Numbers")
 plt.xlabel("Temperature in K")
-plt.ylable("Reynold Numbers")
+plt.ylabel("Reynold Numbers")
 plt.savefig('./Images/TempReynold.jpg')
 plt.show()
 ![TemperaturevsReyonldsNumbers](/Images/TempReynold.jpg)
