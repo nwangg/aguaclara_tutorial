@@ -12,9 +12,9 @@
 # Just focus on writing Python to the best of your abilities! Once
 # you're done, you'll have the chance to check your work in the next
 # tutorial section, Running Python Code: https://bit.ly/2w3PbCX
-#######################################################################
+########################################################################
 
-#######################################################################
+########################################################################
 # Don't touch this! This is for testing your code.
 #######################################################################
 from tests.prints import start_recording, stop_recording, get_prints
